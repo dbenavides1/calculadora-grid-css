@@ -5,6 +5,8 @@
 }
 
 .container-calc {
+    /*la posicion absoluta solo es necesaria para el drag*/
+    position: absolute;
     /*margin: auto;*/
     /*margin-top: 50px;*/
     width: 90%;
